@@ -1,0 +1,44 @@
+2022-10-01 03:08:15,437 INFO Started the function with ['hello', 'world!', '123']
+2022-10-01 03:08:34,742 INFO Started the function with ['hello', 'world!', '123']
+2022-10-01 03:08:34,742 INFO Converted the list into string for operation
+2022-10-01 03:08:34,742 INFO Total letter is 10 and total digit is 3
+2022-10-01 04:03:20,482 INFO Array class created with row num: 3 and column num: 5
+2022-10-01 04:03:20,483 INFO The array is [[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]]
+2022-10-01 04:04:22,403 INFO Started the function with ([100, 150, 180],)
+2022-10-01 04:04:22,404 INFO The result is 18 for the D value 100
+2022-10-01 04:04:22,405 INFO The result is 22 for the D value 150
+2022-10-01 04:04:22,405 INFO The result is 24 for the D value 180
+2022-10-01 04:04:42,074 INFO Started with input (['without', 'hello', 'bag', 'world'],)
+2022-10-01 04:04:42,074 INFO The result after sorting (['bag', 'hello', 'without', 'world'],)
+2022-10-01 04:05:17,957 INFO Started the function with ['hello', 'world!', '123']
+2022-10-01 04:05:17,957 INFO Converted the list into string for operation
+2022-10-01 04:05:17,957 INFO Total letter is 10 and total digit is 3
+2022-10-01 04:08:02,730 INFO ABd1234@1
+2022-10-01 04:10:29,332 INFO Valid pasword is ABd1234@1
+2022-10-01 04:11:17,948 INFO Valid pasword is ABd1234@1
+2022-10-01 04:14:59,020 INFO Valid pasword is ABd1234@1
+2022-10-01 04:14:59,021 INFO Valid pasword is  Ad123@
+2022-10-01 04:17:38,835 INFO Started the function with ([100, 1501, 80],)
+2022-10-01 04:17:38,836 INFO The result is 18 for the D value 100
+2022-10-01 04:17:38,836 INFO The result is 70 for the D value 1501
+2022-10-01 04:17:38,836 INFO The result is 16 for the D value 80
+2022-10-01 04:18:29,697 INFO Started the function with ([100, 150, 180],)
+2022-10-01 04:18:29,697 INFO The result is 18 for the D value 100
+2022-10-01 04:18:29,698 INFO The result is 22 for the D value 150
+2022-10-01 04:18:29,698 INFO The result is 24 for the D value 180
+2022-10-01 04:19:20,956 INFO Started the function with ([100, 150, 180],)
+2022-10-01 04:19:20,957 INFO The result is 18 for the D value 100
+2022-10-01 04:19:20,957 INFO The result is 22 for the D value 150
+2022-10-01 04:19:20,957 INFO The result is 24 for the D value 180
+2022-10-01 04:19:34,234 INFO Started the function with ([100, 150, 180],)
+2022-10-01 04:19:34,234 INFO The result is 18 for the D value 100
+2022-10-01 04:19:34,235 INFO The result is 22 for the D value 150
+2022-10-01 04:19:34,235 INFO The result is 24 for the D value 180
+2022-10-01 04:19:57,220 INFO Started the function with ([100, 150, 180],)
+2022-10-01 04:19:57,220 INFO The result is 18 for the D value 100
+2022-10-01 04:19:57,220 INFO The result is 22 for the D value 150
+2022-10-01 04:19:57,221 INFO The result is 24 for the D value 180
+2022-10-01 04:20:51,452 INFO Started with input (['without', 'hello', 'bag', 'world'],)
+2022-10-01 04:20:51,453 INFO The result after sorting (['bag', 'hello', 'without', 'world'],)
+2022-10-01 04:21:05,964 INFO Started with input (['without', 'hello', 'bag', 'world'],)
+2022-10-01 04:21:05,964 INFO The result after sorting (['bag', 'hello', 'without', 'world'],)

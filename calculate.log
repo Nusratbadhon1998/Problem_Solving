@@ -1,0 +1,20 @@
+2022-09-30 23:32:01,893 INFO Started the function with ([100, 150, 180],)
+2022-09-30 23:32:01,897 INFO The result is 18.257418583505537 for the D value 100
+2022-09-30 23:32:01,897 INFO The result is 22.360679774997898 for the D value 150
+2022-09-30 23:32:01,897 INFO The result is 24.49489742783178 for the D value 180
+2022-09-30 23:33:06,381 INFO Started the function with ([100, 150, 180],)
+2022-09-30 23:33:06,382 INFO The result is 18.257418583505537 for the D value 100
+2022-09-30 23:33:06,382 INFO The result is 22.360679774997898 for the D value 150
+2022-09-30 23:33:06,382 INFO The result is 24.49489742783178 for the D value 180
+2022-09-30 23:34:32,612 INFO Started the function with ([10, 15, 18],)
+2022-09-30 23:34:32,612 INFO The result is 5 for the D value 10
+2022-09-30 23:34:32,613 INFO The result is 7 for the D value 15
+2022-09-30 23:34:32,613 INFO The result is 7 for the D value 18
+2022-09-30 23:35:03,876 INFO Started the function with ([10, 15, 19],)
+2022-09-30 23:35:03,876 INFO The result is 5 for the D value 10
+2022-09-30 23:35:03,876 INFO The result is 7 for the D value 15
+2022-09-30 23:35:03,876 INFO The result is 7 for the D value 19
+2022-09-30 23:35:29,746 INFO Started the function with ([20, 25, 40],)
+2022-09-30 23:35:29,746 INFO The result is 8 for the D value 20
+2022-09-30 23:35:29,746 INFO The result is 9 for the D value 25
+2022-09-30 23:35:29,746 INFO The result is 11 for the D value 40
